@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "اتو زارع | AUTO ZARE",
+      "hasCanvas": false,
+      "bodyTextLen": 3202,
+      "bodyTextHash": "b67e39c85512918b0d159fbd63a81457ddc9c5530cb6446a4d53bfe45239f158",
+      "bodyTextPrefix": "پرش به محتوا AUTO ZARE خودروها خدمات فرآیند تماس ۰۹۱۳ ۷۹۷ ۲۶۲۹ م",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "اتو زارع | AUTO ZARE",
+      "hasCanvas": false,
+      "bodyTextLen": 3144,
+      "bodyTextHash": "095fed031e6ed6d64d9980c161e23f0f7177a0a521c28cefeb8ac153e1f556d9",
+      "bodyTextPrefix": "پرش به محتوا AUTO ZARE AUTO ZARE واردات مستقیم ترخیص تخصصی رانند",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
